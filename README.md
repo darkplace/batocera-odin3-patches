@@ -1,6 +1,11 @@
-# Batocera Odin 3 — Community Patches
+# Batocera Odin 3 — Community Patches (Generated With the 'priceless' power of Cursor)
 
 Patches for **AYN Odin 3** on Batocera ARM (`44-dev-community`, July 2026).
+
+For using with suckbluefrog custom build -> https://github.com/suckbluefrog/Batocera-Custom-Arm-Builds
+
+Don't try to install **Batocera Control** Decky Plugin on a different Linux distribution, as **it won't work** (it includes invoke-commands exclusive to Batocera).
+
 
 ---
 
